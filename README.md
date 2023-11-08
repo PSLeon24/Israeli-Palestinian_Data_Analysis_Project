@@ -16,7 +16,7 @@
 |date|main work|
 |:--:|:--:|
 |23.10.20(Fri)|I created this repo.|
-|23.11.08(Wed)|I collected datasets in kaggle.|
+|23.11.08(Wed)|I acquired datasets in kaggle.|
 
 ### References
 [1] Dataset: https://www.kaggle.com/datasets/willianoliveiragibin/fatalities-in-the-israeli-palestinian/
