@@ -1,5 +1,5 @@
-## Fatalities in the Israeli-Palestinian_Data_Analysis_Project
-This repo is Fatalities in the Israeli-Palestinian Data Analysis Project. (Middle East War)
+# Middle East War Data Analysis Project
+- Description: This repo is Fatalities in the Israeli-Palestinian Data Analysis Project. (Middle East War)
 ![image](https://github.com/PSLeon24/Israeli-Palestinian_Data_Analysis_Project/assets/59058869/5494026b-468e-45c0-b12f-67cadb0bbf05)
 
 ### Schedule
