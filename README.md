@@ -1,12 +1,12 @@
 # Middle East War Data Analysis Project
-- Description: This repo is Fatalities in the Israeli-Palestinian Data Analysis Project. (Middle East War)
+- <b>Description</b>: This repo is Fatalities in the Israeli-Palestinian Data Analysis Project. (Middle East War)
 ![image](https://github.com/PSLeon24/Israeli-Palestinian_Data_Analysis_Project/assets/59058869/5494026b-468e-45c0-b12f-67cadb0bbf05)
 
 ### Schedule
 |date|objective|status|
 |:--:|:--:|:--:|
 |23.10.28 ~ 23.11.03|Plan this project|O|
-|23.11.04 ~ 23.11.10|Data Collection|in progress|
+|23.11.04 ~ 23.11.10|Data Acquisition|in progress|
 |23.11.11 ~ 23.11.17|Data Preprocessing|-|
 |23.11.18 ~ 23.11.24|Data Visualization|-|
 |23.11.25 ~ 23.12.01|Configuring the Streamlit dashboard|-|
