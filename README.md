@@ -6,7 +6,7 @@
 |date|objective|status|
 |:--:|:--:|:--:|
 |23.10.28 ~ 23.11.03|Plan this project|O|
-|23.11.04 ~ 23.11.10|Data Acquisition|in progress|
+|23.11.04 ~ 23.11.10|Data Acquisition and Read acquired data|in progress|
 |23.11.11 ~ 23.11.17|Data Preprocessing|-|
 |23.11.18 ~ 23.11.24|Data Visualization|-|
 |23.11.25 ~ 23.12.01|Configuring the Streamlit dashboard|-|
