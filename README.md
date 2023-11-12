@@ -1,6 +1,6 @@
 # Middle East War Data Analysis Project
 - <b>Description</b>: This repo is a Fatalities in the Israeli-Palestinian Data Analysis Project. (Middle East War)
-![image](https://github.com/PSLeon24/Israeli-Palestinian_Data_Analysis_Project/assets/59058869/5494026b-468e-45c0-b12f-67cadb0bbf05)
+  ![image](https://github.com/PSLeon24/Israeli-Palestinian_Data_Analysis_Project/assets/59058869/5494026b-468e-45c0-b12f-67cadb0bbf05)
 
 ### Data Description
 <img width="360" alt="스크린샷 2023-11-10 오전 12 31 32" src="https://github.com/PSLeon24/Israeli-Palestinian_Data_Analysis_Project/assets/59058869/79f0dfd0-5f15-4b62-aeb2-2ba3d71e4343">
