@@ -10,9 +10,9 @@
 |:--:|:--:|:--:|
 |23.10.28 ~ 23.11.03|Plan this project|O|
 |23.11.04 ~ 23.11.10|Data Acquisition and Understand acquired data|O|
-|23.11.11 ~ 23.11.12|Write Worksheets|in progress|
-|23.11.13 ~ 23.11.14|Data Preprocessing|-|
-|23.11.15 ~ 23.11.24|Data Visualization|-|
+|23.11.11 ~ 23.11.11|Write Worksheets|O|
+|23.11.12 ~ 23.11.12|Data Preprocessing|O|
+|23.11.13 ~ 23.11.24|Data Visualization|in progress|
 |23.11.25 ~ 23.12.01|Configuring the Streamlit Dashboard|-|
 |23.12.02 ~ 23.12.08|Finish Project / Prepare a presentation|-|
 
@@ -32,7 +32,11 @@
   |:--:|:--|
   |1|어느 국가에서 더 많이 사망하였을까?|
   |2|가장 많은 사상자가 발생한 연도가 언제일까?|
-  |3|To be added|
+  |3|2014년에 사망자가 많이 발생한 지역 TOP3는 어디인가?|
+  |4|2000년부터 2023년까지 일반적으로 어느 지역에서 가장 많은 사망자가 발생했을까?|
+  |5|지도를 이용하여 사망자가 발생한 주요 지역을 시각화하면 어떨까?|
+  |6|사망자들의 부상 종류 Top3는 무엇일까?|
+  |7|성별과 나이별 사망자 수는 어떻게 될까?|
 
 - <b>Step4. Data Preprocessing</b>
 
