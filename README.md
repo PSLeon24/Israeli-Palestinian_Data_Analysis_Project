@@ -3,7 +3,24 @@
   ![image](https://github.com/PSLeon24/Israeli-Palestinian_Data_Analysis_Project/assets/59058869/5494026b-468e-45c0-b12f-67cadb0bbf05)
 
 ### Data Description
-<img width="360" alt="스크린샷 2023-11-10 오전 12 31 32" src="https://github.com/PSLeon24/Israeli-Palestinian_Data_Analysis_Project/assets/59058869/79f0dfd0-5f15-4b62-aeb2-2ba3d71e4343">
+|#|Column Name|Description|Missing Value|
+|--|--|--|--|
+|0|name|사망자 이름|-|
+|1|date_of_event|사건 일자|-|
+|2|age|사망자 나이|exist|
+|3|citizenship|국적|-|
+|4|event_location|사건 장소|-|
+|5|event_location_district|사건 장소 지구|-|
+|6|event_location_region|사건 장소 지역|-|
+|7|date_of_death|사망 일자|-|
+|8|gender|성별|exist|
+|9|took_part_in_the_hostilities|교전 참가 여부|exist|
+|10|place_of_residence|거주지|exist|
+|11|place_of_residence_district|거주지 지구|exist|
+|12|type_of_injury|부상 종류|exist|
+|13|ammunition|탄약 종류|exist|
+|14|killed_by|살해자|-|
+|15|notes|사망 원인|exist|
 
 ### Schedule
 |date|objective|status|
