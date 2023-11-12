@@ -65,6 +65,8 @@
 |23.10.20(Fri)|I created this repo.|
 |23.11.08(Wed)|I acquired datasets in kaggle.|
 |23.11.09(Thu)|I preprocessed missing values to a variety of methods(ex: replace NaN to mean value).<br>I visualized some data.|
+|23.11.11(Sat)|I wrote worksheets.|
+|23.11.12(Sun)|I preprocessed missing values.|
 
 ### References
 [1] Dataset: https://www.kaggle.com/datasets/willianoliveiragibin/fatalities-in-the-israeli-palestinian/
