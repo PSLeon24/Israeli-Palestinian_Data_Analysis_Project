@@ -4,6 +4,7 @@ st.header("Middle East War Data Analysis Project")
 st.subheader("a Fatalities in the Israeli-Palestinian")
 
 questions = [
+    "Default",
     "어느 국가에서 더 많이 사망하였을까?",
     "가장 많은 사상자가 발생한 연도가 언제일까?",
     "2014년에 사망자가 많이 발생한 지역 TOP3는 어디인가?",
