@@ -3,6 +3,10 @@
 
 - <b>Description</b>: This repo is a Fatalities in the Israeli-Palestinian Data Analysis Project. (Middle East War)
 
+## Introduction of Our Team
+|Selfie|Name|Interests|
+|:--:|:--:|:--:|
+|<img height="180" src="https://github.com/PSLeon24/CEM_Community/assets/59058869/1c4a75a2-fa44-4bde-ba6f-1b9b6868de0b">|Yeong-Min Ko|AI, Computer Vision, Data Analysis|
 
 ### Data Description
 |#|Column Name|Description|Missing Value|
