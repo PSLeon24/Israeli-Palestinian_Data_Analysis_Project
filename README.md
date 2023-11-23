@@ -2,6 +2,7 @@
 ![image](https://github.com/PSLeon24/Israeli-Palestinian_Data_Analysis_Project/assets/59058869/5494026b-468e-45c0-b12f-67cadb0bbf05)
 
 - <b>Description</b>: This repo is a Fatalities in the Israeli-Palestinian Data Analysis Project. (Middle East War)
+- Kaggle: https://www.kaggle.com/code/psleon8245/middle-east-war-data-analysis-project
 
 ## Introduction to myself
 |Selfie|Name|Interests|
