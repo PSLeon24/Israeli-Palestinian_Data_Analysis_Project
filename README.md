@@ -36,9 +36,8 @@
 |23.11.04 ~ 23.11.10|Data Acquisition and Understand acquired data|O|
 |23.11.11 ~ 23.11.11|Write Worksheets|O|
 |23.11.12 ~ 23.11.12|Data Preprocessing|O|
-|23.11.13 ~ 23.11.24|Data Visualization|in progress|
-|23.11.25 ~ 23.12.01|Configuring the Streamlit Dashboard|-|
-|23.12.02 ~ 23.12.08|Finish Project / Prepare a presentation|-|
+|23.11.13 ~ 23.12.01|Data Visualization|in progress|
+|23.12.02 ~ 23.12.08|Finish Project|-|
 
 ### My Approach
 - <b>Step1. Understand Data</b>
