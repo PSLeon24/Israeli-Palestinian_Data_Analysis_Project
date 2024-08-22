@@ -4,7 +4,7 @@
 - <b>Description</b>: This repo is Fatalities in the Israeli-Palestinian Data Analysis Project. (Middle East War)
 - Kaggle: https://www.kaggle.com/code/psleon8245/middle-east-war-data-analysis-project
 
-## Introduction to myself
+## Self-Introduction
 |Selfie|Name|Interests|
 |:--:|:--:|:--:|
 |<img height="180" src="https://github.com/PSLeon24/CEM_Community/assets/59058869/1c4a75a2-fa44-4bde-ba6f-1b9b6868de0b">|Yeong-Min Ko|AI, Computer Vision, Data Analysis|
